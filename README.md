@@ -8,7 +8,7 @@ A new Flutter project.
 
 1. Clone repository 
 
-   git clone https://github.com/username/shop_app.git
+   git clone https://github.com/genditelamdika/shop_app.git
    cd shop_app
 
 2. Pastikan menggunakan Flutter versi 3.32.8
