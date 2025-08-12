@@ -19,7 +19,7 @@ A new Flutter project.
 
 | Splash | Home Page | Product Detail | Cart Page | Checkout | Payment Success | Profile |
 |---------|-----------|---------------|-----------|-----------|------------------|---------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail_page.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/cart.png) | ![Payment Success](screenshots/checkout_succes.png) |
+| ![Splash](screenshots/lottie_animation.png) | ![Home](screenshots/home.png) | ![Detail](screenshots/detail_page.png) | ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) | ![Payment Success](screenshots/checkout_succes.png) |![Profile](screenshots/profile.png) |
 
 
 ## 📦 Dependencies / Libraries Used
